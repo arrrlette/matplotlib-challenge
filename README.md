@@ -4,7 +4,7 @@
 
 In this project, we were given data from an artificial animal study performed by Pymaceuticals where 249 mice were identified with SCC tumor growth and were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. 
 
-## Instructions
+## Tasks Performed
 
 The following tasks were performed: 
 
